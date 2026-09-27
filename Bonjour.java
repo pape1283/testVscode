@@ -17,6 +17,6 @@ public class Bonjour {
         BigDecimal a = new BigDecimal("1.10");
         BigDecimal b = new BigDecimal("0.20");
         System.out.println("Solde BigDecimal : " + a.subtract(b));
-
+        System.out.println("bonjour classe");
     }
 }
