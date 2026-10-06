@@ -1,6 +1,6 @@
 public class TestCastImplicite {
     public static void main(String[] args) {
-        byt a = 10;
+        byte a = 10;
         double b = a; // Implicit casting from int to double
         System.out.println("Value of b: " + b);
     }
