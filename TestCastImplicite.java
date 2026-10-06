@@ -1,7 +1,7 @@
 public class TestCastImplicite {
     public static void main(String[] args) {
         byte a = 10;
-        interger b = 5; // Implicit casting from int to double
+        Integer b = 5; // Implicit casting from int to double
       if (5 instanceof Integer){
           System.out.println("int");}
       // Output: Integer
