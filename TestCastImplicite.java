@@ -4,6 +4,6 @@ public class TestCastImplicite {
       //  double b = a; // Implicit casting from int to double
       if ((a+5) instanceof Integer){
           System.out.println("int");}
-        System.out.println("int"); // Output: Integer
+      // Output: Integer
     }
 }
